@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prarththanan98
 - 👀 I’m interested in Machine Learning, Computer Vision and Embedded system.
 - 🌱 I’m currently learning Machine learning and deep learning.
-- 💞️ I’m looking to collaborate on deepl learning related stuffs
+- 💞️ I’m looking to collaborate on deep learning related stuffs
 - 
 
 <!---
